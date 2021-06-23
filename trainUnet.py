@@ -61,7 +61,7 @@ def main(arg):
     MAX_WIDTH= int(custom_data['MAX_WIDTH'])
     MIN_WIDTH = int(custom_data['MIN_WIDTH'])
     MIN_HEIGHT = int(custom_data['MIN_HEIGHT'])
-    FILL_VALUE = int(custom_data['FILL_VALUE'])
+    FILL_VALUE = (custom_data['FILL_VALUE'])
 
   
     
